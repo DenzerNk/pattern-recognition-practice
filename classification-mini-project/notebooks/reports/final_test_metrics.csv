@@ -1,2 +1,0 @@
-Фінальна модель,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC AUC
-"Logistic Regression (penalty=l2, C=10.0)",0.8689,0.8333,0.8929,0.8621,0.9621
